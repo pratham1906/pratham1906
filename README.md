@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratham Meghani
-- 👀 I’m interested in App Development
-- 🌱 I’m currently working on react native
-- 💞️ I’m looking to collaborate on React native
+- 👀 I’m interested in App Development,Web Development and Blockchain
+- 🌱 I’m currently working on NodeJs,SpringBoot,Hibernate,ReactJs,Truffle,Solidity
+- 💞️ I’m looking to collaborate on Trending technologies
 - 📫 You can reach me On premmeghani16@gmail.com
 
 <!---
